@@ -60,6 +60,7 @@ a:hover{
 a{
   text-decoration: none;
   font-size: 20px;
+  text-decoration: underline;
 }
 
 .Dev{
@@ -163,7 +164,6 @@ margin-bottom: 20px;
   margin-bottom: 50px;
   margin-top: 20px;
   color: #ff4949;
-  text-decoration: underline;
 
 }
 
@@ -171,7 +171,6 @@ margin-bottom: 20px;
   margin-bottom: 20px;
   margin-top: 20px;
   font-size: 25px;
-  text-decoration: underline;
 }
 
 .project-statement{
@@ -197,7 +196,7 @@ margin-bottom: 20px;
 }
 
 .statement{
-  color: #11999E;
+  color: #ff4949;
 }
 
 .butn {
@@ -233,11 +232,6 @@ margin-bottom: 20px;
   background-color: #ff8246;
   padding-top: 10px;
   padding-bottom: 50px;
-}
-
-
-.contact-me-footer{
-  text-decoration: underline;
 }
 
 .footer-link{
