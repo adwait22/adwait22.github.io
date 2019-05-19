@@ -53,12 +53,13 @@ p{
 }
 
 a:hover{
-  color: #eaf6f6;
+  color: #ff4949;
 
 }
 
 a{
   text-decoration: none;
+  font-size: 20px;
 }
 
 .Dev{
@@ -161,6 +162,8 @@ margin-bottom: 20px;
   font-weight: bolder;
   margin-bottom: 50px;
   margin-top: 20px;
+  color: #ff4949;
+  text-decoration: underline;
 
 }
 
