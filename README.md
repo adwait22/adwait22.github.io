@@ -1,2 +1,2 @@
 # CV
-![alt text](https://ibb.co/Jxv4vRT)
+![alt text](https://pasteboard.co/KqI5AmMfvjuA.jpg)
